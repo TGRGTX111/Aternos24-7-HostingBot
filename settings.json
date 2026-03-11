@@ -28,7 +28,7 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 10,
+      "repeat-delay": 500,
       "messages": [
         "/teleport 35 64 -352",
         "/teleport 35 64 -352",
@@ -54,11 +54,11 @@
     },
     "look-around": {
       "enabled": true,
-      "interval": 5000
+      "interval": 50000
     },
     "random-jump": {
       "enabled": true,
-      "interval": 1000
+      "interval": 500
     }
   },
   "modules": {
