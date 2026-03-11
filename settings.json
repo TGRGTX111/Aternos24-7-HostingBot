@@ -30,15 +30,15 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "this is best server",
+        "chirag29bishnoi is best player in world",
+        "Welcome to server of ChiragBishnoi"
       ]
     },
     "chat-log": true,
     "auto-reconnect": true,
-    "auto-reconnect-delay": 1000,
-    "max-reconnect-delay": 3000,
+    "auto-reconnect-delay": 500,
+    "max-reconnect-delay": 1000,
     "periodic-rejoin": {
       "enabled": false,
       "min-interval": 20,
@@ -58,13 +58,13 @@
     },
     "random-jump": {
       "enabled": true,
-      "interval": 10
+      "interval": 0
     }
   },
   "modules": {
     "avoidMobs": true,
     "combat": true,
-    "beds": false,
+    "beds": true,
     "chat": true,
     "console-commands": true
   },
@@ -73,8 +73,8 @@
     "auto-eat": true
   },
   "beds": {
-    "pick-up-day": false,
-    "place-night": false
+    "pick-up-day": true,
+    "place-night": true
   },
   "discord": {
     "enabled": false,
@@ -86,6 +86,6 @@
     }
   },
   "chat": {
-    "respond": true
+    "respond": false
   }
 }
