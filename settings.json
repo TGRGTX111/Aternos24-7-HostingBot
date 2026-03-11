@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "chiragbishnoi.aternos.me",
-    "port": 21276,
+    "ip": "116.202.48.240:27490",
+    "port": 27490,
     "version": "1.21.1"
   },
   "position": {
